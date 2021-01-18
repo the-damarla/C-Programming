@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609589181 source:c:\users\vijay sai nag\desktop\exp\strings\removing chars other than alphabets\main.c
+	<stdio.h>
+	<string.h>
+
