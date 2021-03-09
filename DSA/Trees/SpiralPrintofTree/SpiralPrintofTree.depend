@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615264203 source:c:\users\vijay sai nag\desktop\exp\dsa\trees\spiralprintoftree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
