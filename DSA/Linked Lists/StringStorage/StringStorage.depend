@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615562191 source:c:\users\vijay sai nag\desktop\exp\dsa\linked lists\stringstorage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

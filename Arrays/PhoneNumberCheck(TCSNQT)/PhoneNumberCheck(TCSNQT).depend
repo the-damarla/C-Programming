@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615610264 source:c:\users\vijay sai nag\desktop\exp\arrays\phonenumbercheck(tcsnqt)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
